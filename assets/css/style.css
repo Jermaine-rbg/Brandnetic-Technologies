@@ -1160,7 +1160,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: white;
+  background: #fcb102;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1172,7 +1172,7 @@ section {
   transition: 0.3s;
 }
 #footer .footer-top .social-links a:hover {
-  background: #fcb102;
+  background: #090347;
   color: #fff;
   text-decoration: none;
 }
