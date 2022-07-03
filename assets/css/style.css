@@ -304,7 +304,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   padding: 0 0 0 0;
   background: #090347;
-  background: linear-gradient(180deg, #090347, #090347, #090347 100%);
+  /* background: linear-gradient(180deg, #090347, #090347, #090347 100%); */
 }
 #hero h1 {
   margin: 0 0 15px 0;
