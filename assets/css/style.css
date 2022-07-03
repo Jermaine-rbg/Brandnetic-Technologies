@@ -320,7 +320,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 22px;
 }
 #hero .btn-get-started {
-  color: #213b52;
+  color: #090347;
   border-radius: 50px;
   padding: 8px 35px 10px 35px;
   border: 2px solid #fdc134;
@@ -388,7 +388,7 @@ section {
   padding-bottom: 20px;
   position: relative;
   font-family: "Poppins", sans-serif;
-  color: #213b52;
+  color: #090347;
 }
 .section-title h2::before {
   content: "";
