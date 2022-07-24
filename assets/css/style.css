@@ -1118,7 +1118,7 @@ section {
   margin: 30px 0 0 0;
   padding: 0;
 }
-#footer .footer-top .footer-newsletter {
+/* #footer .footer-top .footer-newsletter {
   text-align: center;
   font-size: 15px;
   margin-top: 30px;
@@ -1150,7 +1150,7 @@ section {
   transition: 0.3s;
   border-radius: 50px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
-}
+} */
 #footer .footer-top .footer-newsletter form input[type=submit]:hover {
   background: #fcb102;
 }
