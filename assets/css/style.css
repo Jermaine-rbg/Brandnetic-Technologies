@@ -1151,9 +1151,9 @@ section {
   border-radius: 50px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 } */
-#footer .footer-top .footer-newsletter form input[type=submit]:hover {
+/* #footer .footer-top .footer-newsletter form input[type=submit]:hover {
   background: #fcb102;
-}
+} */
 #footer .footer-top .social-links {
   margin-top: 30px;
 }
